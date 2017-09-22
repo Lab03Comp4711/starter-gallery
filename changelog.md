@@ -1,33 +1,28 @@
 #Change Log
 
-Team membership:  AB (Captain) & CD (Mate)  
+Team membership:  Steven Orola (Captain) & Kevin Dicoy (Mate)  
 Team conventions: Allman notation, markdown for changelog  
 Changelog format: [Markdown](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet) 
 
-## *Version x.x*
+## *Version 1.0*
 
-Release Date: Jul 26, 2027
+Release Date: Sep 22, 2017
 
 ## New Components
 
--   controllers
+-   Added Controllers and View for the web pages.
+    
+    - controller and view is set up instead of static html.
 
-    -   serbian (AB)
+-   Added CodeIgniter package into the project
     
 ## Updated Components
 
 -   controllers
 
-    -   german (CD)
-    -   hindi (CD)
-
 -   models
-
-    -   italian (AB)
 
 -   views
 
-    -   slovenian (AB)
-    -   swedish
 
 
