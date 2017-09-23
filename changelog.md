@@ -4,12 +4,31 @@ Team membership:  Steven Orola (Captain) & Kevin Dicoy (Mate)
 Team conventions: Allman notation, markdown for changelog  
 Changelog format: [Markdown](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet) 
 
-## *Version 2.0*
+
+## *Version 3.0*
 
 Release Date: Sep 22, 2017
 
 ## New Components
 
+- Added new Images model
+- Database configuration with PhpMyAdmin
+    
+## Updated Components
+
+-   controllers
+        - Gallery; updated the controller to work with the Images model
+        - Welcome; updated the controller to work with the Images model
+
+-   views
+        - gallery; changed functionality to work with its controller.
+        - welcome; changed functionality to work with its controller.
+
+## *Version 2.0*
+
+Release Date: Sep 22, 2017
+
+## New Components
 
     
 ## Updated Components
